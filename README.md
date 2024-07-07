@@ -2,6 +2,8 @@
 # Projeto Robotron2000 desenvolvido durante o curso da Alura em parceria com o programa Inova Maranhão.
 
 O Projeto Robotron2000 é uma página onde você pode montar seu próprio robô para salvar a Terra.
+<img src="">
+
 #### Link de visualização do projeto
 [Clique aqui para ver o projeto](https://marcoskdev.github.io/projeto-robotron2000-curso-alura/?)
 ## Stack utilizada
